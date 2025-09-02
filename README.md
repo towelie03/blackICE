@@ -1,5 +1,13 @@
 # blackICE – Intrusion Countermeasures Electronics
 
+---
+
+### Milestone 1 
+
+Need to make a MVP for the vulnerability scanner. After this milestone is over, merge into main and create a new branch for milestone 2
+
+---
+
 **blackICE** is a modular, Python-based penetration testing and vulnerability scanning framework designed to automate network and web application security assessments. It enables security professionals and students to perform comprehensive reconnaissance, identify vulnerabilities, and generate actionable reports in a safe, controlled environment.
 
 ---
